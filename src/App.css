@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.heading{
+  border-bottom: 2px solid #F39C12;
+}
+body{
+  background-color: #E7E7E8;
+}
+.head{
+  border-bottom: 5px solid #F39C12;
+  border-top:  5px solid #F39C12;
+  border-radius: 5px;
+}
+.crd ul li{
+  font-size: 18px;
+  color: grey;
+}
+.img1{
+  box-shadow: 3px 3px #e9c181;
+}
